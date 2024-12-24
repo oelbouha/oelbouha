@@ -1,5 +1,5 @@
 👋 Hi, I'm Outman! <br/>
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Software Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science at 1337 Coding School<br/>
 
 
