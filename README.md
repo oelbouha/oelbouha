@@ -34,7 +34,6 @@ Full-stack developer with production experience across the **React / Next.js** a
 | **[QuickDrop](https://github.com/oelbouha/quickdrop)** | Peer-to-peer package delivery — travelers ship packages for senders, with real-time chat & payments | Flutter · Dart · Firebase · Stripe |
 | **[Atlas Book](https://github.com/oelbouha/atlas_book)** | Digital signage app for Android & Android TV, TV-remote navigation, single codebase | Flutter · Dart · Android TV |
 | **[Pong Arena](https://github.com/oelbouha/Pong-Arena)** | Real-time multiplayer Pong platform with in-game chat, invites & blocking | JavaScript · WebSockets |
-| **[Muse AI Community](https://github.com/oelbouha/muse-ai-community)** | SEO-focused resource website — 25 routes, 11 full articles, prerendered | React · TypeScript · Vite · Tailwind |
 | **[Revo](https://github.com/oelbouha/Revo)** | Website for Revo Advertising, a Moroccan digital-marketing agency | React · TypeScript · Vercel |
 | **[FullPlate Journal](https://github.com/oelbouha/FullPlateJournal)** | Meal-prep & recipe planning web app (work in progress) | React · TypeScript · Tailwind |
 
@@ -48,7 +47,6 @@ Full-stack developer with production experience across the **React / Next.js** a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -77,16 +75,6 @@ Full-stack developer with production experience across the **React / Next.js** a
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oelbouha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=oelbouha&theme=dark&hide_border=false" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelbouha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/>
-</p>
 
 ---
 
