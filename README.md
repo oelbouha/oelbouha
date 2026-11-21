@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer — React / Next.js · Django / PostgreSQL · Flutter</h3>
 
 <p align="center">
-  📍 Morocco &nbsp;•&nbsp; 🎓 Software Engineering @ <b>1337 Coding School (UM6P)</b> &nbsp;•&nbsp; 💼 Web Developer Intern @ <b>Revo Advertising</b>
+  📍 Morocco &nbsp;•&nbsp; 🎓 Software Engineering @ <b>1337 Coding School (UM6P)</b></b>
 </p>
 
 <p align="center">
