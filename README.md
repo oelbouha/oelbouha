@@ -35,7 +35,6 @@ Full-stack developer with production experience across the **React / Next.js** a
 | **[Atlas Book](https://github.com/oelbouha/atlas_book)** | Digital signage app for Android & Android TV, TV-remote navigation, single codebase | Flutter · Dart · Android TV |
 | **[Pong Arena](https://github.com/oelbouha/Pong-Arena)** | Real-time multiplayer Pong platform with in-game chat, invites & blocking | JavaScript · WebSockets |
 | **[Revo](https://github.com/oelbouha/Revo)** | Website for Revo Advertising, a Moroccan digital-marketing agency | React · TypeScript · Vercel |
-| **[FullPlate Journal](https://github.com/oelbouha/FullPlateJournal)** | Meal-prep & recipe planning web app (work in progress) | React · TypeScript · Tailwind |
 
 ---
 
